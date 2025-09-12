@@ -1,13 +1,13 @@
 <h1 align="center">eyvr17</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eyvr17/cybertools/main/files/giphy.gif" alt="cyberpunk" width="480"/>
+</p>
 <h3 align="center">Cybersecurity Researcher · Pentester · Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eyvr17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile view count"/>
   <img src="https://img.shields.io/github/followers/eyvr17?label=Followers&style=social" alt="GitHub follower count"/>
-</p>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ1dWtwanJ6MnZ3YnZ6aGF3a3R0MXpodzR1ZzN2cGM3aXpwNjEydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elQ3rYUokgECGHZ4N6/giphy.gif" alt="cyberpunk" width="480"/>
 </p>
 
 ---
