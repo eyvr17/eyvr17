@@ -21,6 +21,8 @@ Cybersecurity professional specializing in offensive security, threat research, 
 
 - **[CyberTools](https://github.com/eyvr17/cybertools)**  
   Modular Python toolkit for reconnaissance, port scanning, password profiling, and security auditing. Built for red teamers, researchers, and automation enthusiasts.
+- **[GitMasterPro](https://github.com/eyvr17/gitmasterpro)**  
+  Powerful Chrome extension for GitHub user analysis, bulk repo management, and contribution tracking. Built for developers, contributors, and GitHub automation enthusiasts.
 
 ---
 
