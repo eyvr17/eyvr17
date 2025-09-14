@@ -1,10 +1,8 @@
-<h1 align="center">eyvr17</h1>
+<h1 align="center">Cybersecurity Researcher · Offensive Security · Developer</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eyvr17/cybertools/main/files/giphy.gif" alt="cyberpunk" width="480"/>
 </p>
-
-<h3 align="center">Cybersecurity Researcher · Offensive Security · Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eyvr17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
