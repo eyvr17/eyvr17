@@ -19,9 +19,11 @@ Cybersecurity professional specializing in offensive security, threat research, 
 
 ### 🚀 Featured Project
 
-- **[CyberTools](https://github.com/eyvr17/cybertools)**  
+- **[Crazy Sepia Tool](https://github.com/eyvr17/sepia)**  
+  Offensive CLI suite for fast network reconnaissance, port scanning, OSINT, and basic analysis. Designed for cybersecurity labs, red teamers, and ethical hacking enthusiasts.
+- **[Cyber Tools](https://github.com/eyvr17/cybertools)**  
   Modular Python toolkit for reconnaissance, port scanning, password profiling, and security auditing. Built for red teamers, researchers, and automation enthusiasts.
-- **[GitMasterPro](https://github.com/eyvr17/gitmasterpro)**  
+- **[Git Master Pro](https://github.com/eyvr17/gitmasterpro)**  
   Powerful Chrome extension for GitHub user analysis, bulk repo management, and contribution tracking. Built for developers, contributors, and GitHub automation enthusiasts.
 
 ---
