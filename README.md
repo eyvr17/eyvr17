@@ -1,7 +1,7 @@
 <h1 align="center">Eyver G. | Cybersecurity Executive & Offensive Security Specialist</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eyvr17/cybertools/main/files/HSDU.gif" alt="MrRobot" width="420"/>
+  <img src="https://github.com/eyvr17/files/blob/main/gif/HSDU.gif" alt="MrRobot" width="420"/>
 </p>
 
 <p align="center">
