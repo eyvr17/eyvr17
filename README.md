@@ -1,62 +1,80 @@
-<h1 align="center">Cybersecurity Researcher · Offensive Security · Developer</h1>
+<h1 align="center">Eyver G. | Cybersecurity Executive & Offensive Security Specialist</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eyvr17/cybertools/main/files/giphy.gif" alt="cyberpunk" width="480"/>
+  <img src="https://raw.githubusercontent.com/eyvr17/cybertools/main/files/HSDU.gif" alt="MrRobot" width="420"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eyvr17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/eyvr17?label=Followers&style=social" alt="GitHub followers"/>
-</p>
-
----
-
-### 🧠 About Me
-
-Cybersecurity professional specializing in offensive security, threat research, and security automation. I focus on developing custom tooling for penetration testing, OSINT, and vulnerability analysis. Regular contributor to open-source projects, CTF participant, and bug bounty hunter.
-
----
-
-### 🚀 Featured Project
-
-- **[Crazy Sepia Tool](https://github.com/eyvr17/sepia)**  
-  Offensive CLI suite for fast network reconnaissance, port scanning, OSINT, and basic analysis. Designed for cybersecurity labs, red teamers, and ethical hacking enthusiasts.
-- **[Cyber Tools](https://github.com/eyvr17/cybertools)**  
-  Modular Python toolkit for reconnaissance, port scanning, password profiling, and security auditing. Built for red teamers, researchers, and automation enthusiasts.
-- **[Git Master Pro](https://github.com/eyvr17/gitmasterpro)**  
-  Powerful Chrome extension for GitHub user analysis, bulk repo management, and contribution tracking. Built for developers, contributors, and GitHub automation enthusiasts.
-
----
-
-### 🛠️ Tech & Tools
-
-`Python` · `Bash` · `OSINT` · `Nmap` · `SQLMap` · `Burp Suite` · `Docker` · `Git` · `Metasploit` · `Linux` · `Automation`
-
----
-
-### 🕵️‍♂️ Areas of Interest
-
-- Offensive Security & Exploitation  
-- Threat Intelligence & OSINT  
-- Red Teaming & C2 Development  
-- Vulnerability Research & Automation
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/eyvr17">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.linkedin.com/in/eyvr17/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:eyvr17@proton.me">
-    <img src="https://img.shields.io/badge/Email-ProtonMail-c14438?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-c14438?style=flat-square&logo=protonmail" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/eyvr17/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/eyvr17">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=eyvr17&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
-⭐ **Support the project** — Star [CyberTools](https://github.com/eyvr17/cybertools) if you find it helpful or use it in your workflow.
+## Executive Summary
+
+Cybersecurity executive with extensive experience in offensive security, threat intelligence, and security automation. Proven track record in leading security research, developing advanced tools for penetration testing, and contributing to open-source initiatives. Recognized for expertise in vulnerability analysis, red teaming, and security strategy for enterprise environments.
+
+---
+
+## Key Competencies
+
+- Offensive Security & Exploitation
+- Threat Intelligence & OSINT
+- Red Team Operations & C2 Development
+- Vulnerability Research & Security Automation
+- Security Architecture & Risk Management
+- Leadership in Cybersecurity Projects
+
+---
+
+## Technical Proficiencies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF7139?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-1F1F1F?style=flat-square&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-0080FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQLMap-1A1A1A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-007ACC?style=flat-square"/>
+</p>
+
+---
+
+## Selected Projects
+
+- **[Crazy Sepia Tool](https://github.com/eyvr17/sepia)**  
+  Advanced command-line suite for network reconnaissance, port scanning, OSINT, and analysis. Designed for cybersecurity labs, red teams, and ethical hacking professionals.
+
+- **[Cyber Tools](https://github.com/eyvr17/cybertools)**  
+  Modular Python toolkit for reconnaissance, port scanning, password profiling, and security auditing. Built for security researchers and automation specialists.
+
+- **[Git Master Pro](https://github.com/eyvr17/gitmasterpro)**  
+  Chrome extension for GitHub user analysis, repository management, and contribution tracking. Developed for developers and automation professionals.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eyvr17&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyvr17&layout=compact&theme=default&hide_title=true" alt="Top Languages" height="140"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Featured Project</b> — Discover <a href="https://github.com/eyvr17/sepia">Sepia</a> for advanced network reconnaissance and analysis.
+</p>
